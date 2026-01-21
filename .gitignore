@@ -1,0 +1,8 @@
+dataset/
+data/
+spark_output/
+*.h5
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
